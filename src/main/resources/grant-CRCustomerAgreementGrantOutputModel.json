@@ -1,0 +1,8 @@
+{
+  "customerAgreementGrantActionTaskRecord" : {},
+  "customerAgreementGrantActionTaskReference" : "CAGATR796290",
+  "grantRequestResponseRecord" : {
+    "grantPermissionDetails" : "grantPermissionDetails"
+  },
+  "grantRequestRecordReference" : "GRRR795389"
+}

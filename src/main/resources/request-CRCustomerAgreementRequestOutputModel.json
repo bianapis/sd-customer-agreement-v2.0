@@ -1,0 +1,17 @@
+{
+  "requestRecordReference" : "RRR746489",
+  "customerAgreementRequestActionTaskReference" : "CARATR793884",
+  "customerAgreementInstanceRecord" : {
+    "agreementType" : "agreementType",
+    "partyLifecycleManagementReference" : "752703",
+    "agreementJurisdiction" : "agreementJurisdiction",
+    "customerReference" : "753813",
+    "legalEntityReference" : "712397",
+    "agreementSignatoriesResponsibleParties" : "agreementSignatoriesResponsibleParties",
+    "agreementValidFromToDate" : "09-22-2018",
+    "salesProductAgreementReference" : "702022",
+    "documentDirectoryEntryInstanceReference" : "792416"
+  },
+  "customerAgreementRequestActionTaskRecord" : {},
+  "requestResponseRecord" : {}
+}

@@ -1,0 +1,9 @@
+{
+  "customerAgreementInstanceReference" : "CAIR793079",
+  "customerAgreementInstanceRecord" : {
+    "agreementJurisdiction" : "agreementJurisdiction",
+    "agreementSignatoriesResponsibleParties" : "agreementSignatoriesResponsibleParties",
+    "agreementValidFromToDate" : "09-22-2018",
+    "documentDirectoryEntryInstanceReference" : "779750"
+  }
+}

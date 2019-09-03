@@ -1,0 +1,20 @@
+{
+  "regulatoryTermsInstanceRecord" : {
+    "applicableRegulationReference" : "795010",
+    "regulatoryAuthority" : "regulatoryAuthority"
+  },
+  "regulatoryTermsUpdateActionTaskReference" : "RTUATR758886",
+  "customerAgreementInstanceRecord" : {
+    "agreementType" : "agreementType",
+    "partyLifecycleManagementReference" : "777807",
+    "agreementJurisdiction" : "agreementJurisdiction",
+    "customerReference" : "765844",
+    "legalEntityReference" : "735274",
+    "agreementSignatoriesResponsibleParties" : "agreementSignatoriesResponsibleParties",
+    "agreementValidFromToDate" : "09-22-2018",
+    "salesProductAgreementReference" : "786289",
+    "documentDirectoryEntryInstanceReference" : "747978"
+  },
+  "updateResponseRecord" : {},
+  "regulatoryTermsUpdateActionTaskRecord" : {}
+}

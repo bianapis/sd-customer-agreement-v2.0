@@ -1,0 +1,16 @@
+{
+  "customerAgreementUpdateActionTaskRecord" : {},
+  "customerAgreementInstanceRecord" : {
+    "agreementType" : "agreementType",
+    "partyLifecycleManagementReference" : "744948",
+    "agreementJurisdiction" : "agreementJurisdiction",
+    "customerReference" : "784001",
+    "legalEntityReference" : "728604",
+    "agreementSignatoriesResponsibleParties" : "agreementSignatoriesResponsibleParties",
+    "agreementValidFromToDate" : "09-22-2018",
+    "salesProductAgreementReference" : "725733",
+    "documentDirectoryEntryInstanceReference" : "744341"
+  },
+  "customerAgreementUpdateActionTaskReference" : "CAUATR715310",
+  "updateResponseRecord" : {}
+}
